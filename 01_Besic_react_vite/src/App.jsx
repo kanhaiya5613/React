@@ -1,10 +1,10 @@
-
+import Kanhaiya from './Kanhaiya.jsx'
 
 function App() {
   
 
   return (
-     <h1>Hello Kanhaiya, How are You</h1>
+     <Kanhaiya />
      )
 }
 
