@@ -1,6 +1,7 @@
 function Kanhaiya(){
+    const username = 'Kanhaiya'
     return (
-        <h2>Hello Kanhaiya, welcome to react </h2>
+        <h2>Hello {username}, welcome to react </h2>
     );
 }
 export default Kanhaiya;
